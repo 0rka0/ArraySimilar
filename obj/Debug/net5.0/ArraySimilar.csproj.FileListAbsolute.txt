@@ -1,0 +1,16 @@
+D:\Applications\BEKO\ArraySimilar\obj\Debug\net5.0\ArraySimilar.csproj.AssemblyReference.cache
+D:\Applications\BEKO\ArraySimilar\obj\Debug\net5.0\ArraySimilar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Applications\BEKO\ArraySimilar\obj\Debug\net5.0\ArraySimilar.AssemblyInfoInputs.cache
+D:\Applications\BEKO\ArraySimilar\obj\Debug\net5.0\ArraySimilar.AssemblyInfo.cs
+D:\Applications\BEKO\ArraySimilar\obj\Debug\net5.0\ArraySimilar.csproj.CoreCompileInputs.cache
+D:\Applications\BEKO\ArraySimilar\bin\Debug\net5.0\ArraySimilar.exe
+D:\Applications\BEKO\ArraySimilar\bin\Debug\net5.0\ArraySimilar.deps.json
+D:\Applications\BEKO\ArraySimilar\bin\Debug\net5.0\ArraySimilar.runtimeconfig.json
+D:\Applications\BEKO\ArraySimilar\bin\Debug\net5.0\ArraySimilar.runtimeconfig.dev.json
+D:\Applications\BEKO\ArraySimilar\bin\Debug\net5.0\ArraySimilar.dll
+D:\Applications\BEKO\ArraySimilar\bin\Debug\net5.0\ref\ArraySimilar.dll
+D:\Applications\BEKO\ArraySimilar\bin\Debug\net5.0\ArraySimilar.pdb
+D:\Applications\BEKO\ArraySimilar\obj\Debug\net5.0\ArraySimilar.dll
+D:\Applications\BEKO\ArraySimilar\obj\Debug\net5.0\ref\ArraySimilar.dll
+D:\Applications\BEKO\ArraySimilar\obj\Debug\net5.0\ArraySimilar.pdb
+D:\Applications\BEKO\ArraySimilar\obj\Debug\net5.0\ArraySimilar.genruntimeconfig.cache
